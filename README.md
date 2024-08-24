@@ -36,5 +36,3 @@ To view the Sprint Review and Retrospective document, navigate to the `Sprint-Re
 This repository serves as a reflection of my journey through the CS 250 course, showcasing the application of Agile methodologies and the lessons learned. It is part of a broader portfolio that captures my growth and learning in the field of computer science.
 
 ---
-
-**Note:** Please ensure that your instructor has been added as a collaborator to this repository and has access to all the files included.
